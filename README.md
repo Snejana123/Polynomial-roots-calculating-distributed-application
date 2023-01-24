@@ -234,7 +234,7 @@ Server part
 
 Interface
 
-![изображение](https://user-images.githubusercontent.com/103432419/214332226-edcc310d-1c9d-4614-b26c-45f5f25de66f.png)
+![изображение](https://user-images.githubusercontent.com/103432419/214334325-556b6a54-4b28-4edb-aa47-851fda56493f.png)
 
 
 
