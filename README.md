@@ -232,4 +232,10 @@ Server part
 
 ![Server class](https://user-images.githubusercontent.com/103432419/214328606-59c1edb8-7ff2-469e-89c4-c1ae6876e97c.jpg)
 
+Interface
+
+![изображение](https://user-images.githubusercontent.com/103432419/214332226-edcc310d-1c9d-4614-b26c-45f5f25de66f.png)
+
+
+
 
