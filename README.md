@@ -172,6 +172,7 @@ Attributes:
 • + void recieve(QTcpSocket*, QByteArray) – slot for receiving a message
 
 Client:
+
 7) TInterface - a class for implementing the graphical interface of the application
 
 Attributes:
@@ -209,7 +210,7 @@ TPolinom
 • void request(QString) – request signal
 
 8) TApplication - a class for implementing an application on the client side
-9) 
+
 Attributes:
 
 • - comm: TCommunicator* - communicator parameters
